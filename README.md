@@ -1,5 +1,5 @@
 # README
-<h2 align="left">Hi 👋! My name is Raghav Kumar and I'm a student of IKGPTU.</h2>
+<h2 align="left">Hi 👋! My name is Rag and I'm a student of IKGPTU.</h2>
 
 ###
 
